@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since October, 2024<br>📚 I'm currently learning JavaScript<br>🎯 Goals: Fullstack Developer until the end of this year...<br>🎲 Fun fact: "Nothing is more permanent than a temporary improvisation!"/p>
+<p align="left">✨ Creating bugs since October, 2024<br>📚 I'm currently learning JavaScript<br>🎯 Goals: Fullstack Developer until the end of this year...<br>🎲 Fun fact: "Nothing is more permanent than a temporary improvisation!"</p>
 
 ###
 
